@@ -1,0 +1,34 @@
+<GridLayout columns="80, *, auto" rows="auto, *" >
+	<!-- row 1 -->
+	<Image col="0" [src]="meli.pregunta.item.thumbnail" class="img-circle" stretch="none" horizontalAlignment="center"></Image>
+	<Label col="1" [text]="meli.pregunta.item.title" class="h3 text-left p-10"></Label>
+	
+	<!-- row 2 -->
+	<ListView row="2" colSpan="2" verticalAlignment="top" [items]="meli.pregunta.preguntas_previas" class="small-spacing">
+		    <template let-preguntaPrevia>
+		    	<StackLayout>
+			    	<StackLayout  class="pregunta" (tap)="seleccionarPregunta(preguntaPrevia.id, preguntaPrevia.answer == null )">
+						<Label  [text]=" preguntaPrevia.text" textWrap="true" editable="false"></Label>
+						<Label  [text]="dameFechaArgentina(preguntaPrevia.date_created)  | date:'dd-MM-yyyy HH:mm:ss'" class="h6" editable="false"></Label>
+					</StackLayout>
+					
+					<!-- SI TIENE RESPUESTA ENVIADA -->
+					<StackLayout  [visibility]="preguntaPrevia.answer != null ? 'visible' : 'collapse'" class="respuesta " >
+						<Label  [text]="preguntaPrevia.answer != null ?  preguntaPrevia.answer.text : ''" class="body respuestaTexto" textWrap="true" editable="false"></Label>
+						<Label  [text]="(preguntaPrevia.answer != null ? dameFechaArgentina(preguntaPrevia.answer.date_created) : '') | date:'dd-MM-yyyy HH:mm:ss' " class="h6" editable="false"></Label>
+					</StackLayout>
+					
+					<!-- SI NO TIENE RESPUESTA ENVIADA -->
+					<StackLayout  [visibility]="preguntaPrevia.id == meli.pregunta.question_id ? 'visible' : 'collapse'" class="respuesta " >
+						<StackLayout >
+							<TextField  class="body" [(ngModel)]="respuesta" hint="Escribir respuesta.."  editable="true"></TextField>
+						</StackLayout>	
+						<Button text="Responder" class="botonResponder" (tap)="responder()"></Button>
+					</StackLayout>	
+
+				</StackLayout>
+			</template>
+	  </ListView>
+</GridLayout>
+<ActivityIndicator [busy]="isLoading" [visibility]="isLoading ? 'visible' : 'collapse'" row="1" horizontalAlignment="center" verticalAlignment="center"></ActivityIndicator>
+<ActionBar class="action-bar" [title]="usuarioPregunta"></ActionBar>

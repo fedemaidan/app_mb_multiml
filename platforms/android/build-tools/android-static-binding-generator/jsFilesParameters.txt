@@ -1,0 +1,3 @@
+/home/fede/workspace/nativescript/Groceries/platforms/android/src/main/assets/app/providers/mercadolibre.js
+/home/fede/workspace/nativescript/Groceries/platforms/android/src/main/assets/app/app.component.js
+/home/fede/workspace/nativescript/Groceries/platforms/android/src/main/assets/app/pages/list/list.component.js

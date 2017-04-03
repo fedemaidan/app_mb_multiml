@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/fede/.gradle/caches/modules-2/files-2.1/io.socket/socket.io-client/0.8.2/96fd0e4a99e71d688b7267e12d2a5a137519d92e/socket.io-client-0.8.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="96fd0e4a99e71d688b7267e12d2a5a137519d92e">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/socket.io-client-0.8.2_18649232c2ba9a5c0e351a042479070fda99a3be.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-25.1.0_f36edcd6fb97854bc5417c53f35d7e1869eb348b.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_27eb1abefe6584b97614c4347aeedeb4c2277e08.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-25.1.0_31d27c15f28629877969deea4e307b2e9b0b2b79.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-25.1.0_25ae9e82c6e3d2f2d0aa40c1fd4eeed56119ea8d.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_0d5d6212d53db0dd309e48f19e5e3b19714f929c.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-25.1.0_6c16a89625ed41b5f8102d0a42d1bd912f8536bb.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-25.1.0_c96d680f1bd52a107cda1cd8fd7a8bbacc885616.jar" />
+    </item>
+    <item
+        jar="/home/fede/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-25.1.0_026ce2ced70d0daf6670e93e36cf68e58bbae7d7.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-25.1.0_65e98fe1ce60e1c85f631457290a331a708c84aa.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-25.1.0_5b1f7f4fcd47c8da06c69e7028a02b5f7856516b.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-25.1.0_47e547cbb527216ffaf800fe3d3af34a8948fc95.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-25.1.0_f3d7bb91af864f7706e8f811cf9b67eeeb4951d0.jar" />
+    </item>
+    <item
+        jar="/home/fede/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/okhttp-3.4.1_1a81feb01f8c20d5c3a0a0c87cb1db2a95da6362.jar" />
+    </item>
+    <item
+        jar="/home/fede/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/okio-1.9.0_3c12bc7d09bccc70e0d53698547a36034e78c2a7.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-25.1.0_f44af4db607cb110aa1186274cc6857009691e19.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/Groceries-runtime-unspecified_d000e59763cc6a4f5aad7e3d950e1177e5987c76.jar" />
+    </item>
+    <item
+        jar="/home/fede/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/okhttp-ws-3.4.1_2347240fc0d00ec93c8a35a5511147f00f6b4a76.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-25.1.0_d059a3ac606a61e6c11443e9029d549352024a25.jar" />
+    </item>
+    <item
+        jar="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-25.1.0_144fd92c586eb8c04be511a2afd39e26dab51ea2.jar" />
+    </item>
+    <item
+        jar="/home/fede/.gradle/caches/modules-2/files-2.1/io.socket/engine.io-client/0.8.2/2b23f3e731f21c2009ab0a10da8254a69693767d/engine.io-client-0.8.2.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2b23f3e731f21c2009ab0a10da8254a69693767d">
+        <dex dex="/home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0F1/debug/engine.io-client-0.8.2_a6c681e1cb09a1ac892712d412860eae9af2c14f.jar" />
+    </item>
+
+</items>

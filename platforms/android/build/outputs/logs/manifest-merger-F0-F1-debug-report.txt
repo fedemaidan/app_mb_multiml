@@ -1,0 +1,333 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:3:2-38
+		INJECTED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:3:2-38
+		INJECTED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/F1/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:5:2-27
+		INJECTED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/F1/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:4:2-25
+		INJECTED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/F1/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [Groceries:runtime:unspecified] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:recyclerview-v7:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:transition:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:15:3-32
+		INJECTED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml
+		INJECTED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/F1/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:14:3-29
+		INJECTED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml
+		INJECTED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/F1/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:19:2-63
+MERGED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:19:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:20:2-76
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:20:19-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:21:22-78
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:22:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:23:5-66
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:23:22-63
+application
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:26:2-56:16
+MERGED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [:widgets-release:] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:transition:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] /home/fede/workspace/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:30:3-35
+	android:allowBackup
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:28:3-29
+	android:icon
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:29:3-32
+	android:theme
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:31:3-34
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:27:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:32:3-42:14
+	android:label
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:34:4-49
+	android:configChanges
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:35:4-65
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:33:4-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:37:5-41:20
+action#android.intent.action.MAIN
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:38:5-57
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:38:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:40:5-65
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:40:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:43:3-57
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:43:13-55
+service#com.tns.notifications.NotificationIntentService
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:44:3-47:39
+	android:enabled
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:46:12-34
+	android:exported
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:47:12-36
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:45:12-74
+receiver#com.tns.broadcastreceivers.NotificationEventReceiver
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:48:9-89
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:48:19-86
+receiver#com.tns.broadcastreceivers.NotificationServiceStarterReceiver
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:49:9-55:20
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:49:19-95
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.TIMEZONE_CHANGED+android.intent.action.TIME_SET
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:50:13-54:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:51:17-79
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:51:25-76
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:52:17-81
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:52:25-78
+action#android.intent.action.TIME_SET
+ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:53:17-73
+	android:name
+		ADDED from /home/fede/workspace/nativescript/Groceries/platforms/android/src/main/AndroidManifest.xml:53:25-70

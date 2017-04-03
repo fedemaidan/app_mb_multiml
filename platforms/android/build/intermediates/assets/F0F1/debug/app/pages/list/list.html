@@ -1,0 +1,23 @@
+<StackLayout>
+	<Button text="Agregar cuenta" (tap)="agregarCuenta()"></Button>
+	<GridLayout>
+	  <ListView [items]="user.cuentas" class="small-spacing">
+	    <template let-cuenta>
+
+	    	<GridLayout row="0" columns="*, auto">
+			    <Label [text]="cuenta.nickname" class="medium-spacing" col="0"></Label>
+			    <Image src="res://borrar" col="1" (tap)="removerCuenta(cuenta)"></Image>
+			  </GridLayout>
+	      
+	    </template>
+	  </ListView>
+	  
+	</GridLayout>
+</StackLayout>
+
+<WebView src="https://www.mercadolibre.com/jms/mla/lgz/logout" visibility="collapsed"></WebView>
+<ActivityIndicator [busy]="isLoading" [visibility]="isLoading ? 'visible' : 'collapse'" row="1" horizontalAlignment="center" verticalAlignment="center"></ActivityIndicator>
+<ActionBar class="action-bar" title="Cuentas">
+  <ActionItem text="Volver" android.systemIcon="ic_menu_back" (tap)="irAPreguntas()" ios.position="left"></ActionItem>
+  <ActionItem ios.systemIcon="1" android.systemIcon="ic_menu_close_clear_cancel" (tap)="logout()" ios.position="right"></ActionItem>
+</ActionBar>

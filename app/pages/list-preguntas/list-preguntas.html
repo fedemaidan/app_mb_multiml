@@ -1,0 +1,19 @@
+<GridLayout class="page">
+  <ListView [items]="meli.preguntas" class="small-spacing">
+    <template let-pregunta>
+    	<GridLayout columns="80, *, auto" rows="auto, *" (tap)="verConversacion(pregunta)" >
+			<Image col="0" [src]="pregunta.item.thumbnail" class="img-circle" horizontalAlignment="center"></Image>
+			<StackLayout col="1"  class=" pregunta m-20" >
+				<Label  [text]="pregunta.seller_name" textWrap="true" class="h6 text-left"></Label>
+				<Label  [text]="pregunta.item.title" textWrap="true" class="h3 text-left"></Label>
+				<Label  [text]="dameFechaArgentina(pregunta.date_created)  | date:'dd-MM-yyyy HH:mm:ss'" class="h6" editable="false"></Label>
+				<Label  [text]="pregunta.text"  textWrap="true" editable="false"></Label>
+			</StackLayout>
+		</GridLayout>
+</template>
+  </ListView>
+</GridLayout>
+<ActivityIndicator [busy]="isLoading" [visibility]="isLoading ? 'visible' : 'collapse'" row="1" horizontalAlignment="center" verticalAlignment="center"></ActivityIndicator>
+<ActionBar class="action-bar" title="Preguntas">
+  <ActionItem ios.systemIcon="2" android.systemIcon="ic_menu_edit" (tap)="irACuentas()" ios.position="right"></ActionItem>
+</ActionBar>

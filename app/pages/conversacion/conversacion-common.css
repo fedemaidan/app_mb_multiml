@@ -1,0 +1,41 @@
+.general {
+  margin-left: 30;
+  margin-right: 30;  
+}
+
+.add-bar {
+  background-color: #CB1D00;
+  padding: 5 10;
+}
+.add-bar Image {
+  height: 15;
+  vertical-align: center;
+  margin-left: 10;
+  margin-right: 5;
+}
+
+.pregunta {
+  color: #4B482A;
+  padding: 10;
+  text-align: right;
+  margin-left: 100;
+}
+
+.respuesta {
+  color: #4B482A;
+  padding: 10;
+  text-align: left;
+}
+
+.respuestaTexto {
+  margin-right: 100;
+}
+
+.previas {
+  color: blue;
+}
+
+.botonResponder {
+  background-color: #2F3475;
+  color: white;
+}
